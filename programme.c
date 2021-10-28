@@ -1,5 +1,5 @@
 #include <gtk/gtk.h>
-#include "graphiques/graphiques.h"
+#include "graphiques.h"
 #include <math.h>
 
 int

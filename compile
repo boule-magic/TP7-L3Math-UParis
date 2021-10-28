@@ -1,2 +1,2 @@
 #!/bin/sh
-gcc -g -O -ffast-math -Wall `pkg-config --cflags gtk+-3.0` programme.c graphiques/graphiques.c `pkg-config --libs gtk+-3.0` -lm
+gcc -g -O -ffast-math -Wall `pkg-config --cflags gtk+-3.0` programme.c graphiques.c `pkg-config --libs gtk+-3.0`
